@@ -1,2 +1,2 @@
-# Shades_mobile_application
-UEE project in Y3S1
+# shades-app-flutter-project
+ innovative mobile app for academic discussions

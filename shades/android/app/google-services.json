@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956970601742",
+    "project_id": "shades-9c326",
+    "storage_bucket": "shades-9c326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956970601742:android:cc836d682fb560b34a5b5f",
+        "android_client_info": {
+          "package_name": "com.example.shades"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATIOJ4FKa0pA0lCSUP3s-UCOiT8zdT_sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

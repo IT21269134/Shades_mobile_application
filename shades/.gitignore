@@ -1,0 +1,143 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+
+
+#extra--------------------------------
+# macOS specific files/directories
+.DS_Store
+
+# Android specific files
+/build/
+.gradle/
+/local.properties
+
+# iOS specific files
+Pods/
+*.xcworkspace/
+*.xcuserdatad/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.moved-aside
+DerivedData/
+.idea/
+*.hprof
+
+# Flutter specific files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+/build/
+/captures/
+/flutter/ios/Flutter/Flutter.xcconfig
+
+# Visual Studio Code specific files
+.vscode/
+
+# Android Studio specific files
+.idea/
+
+# Xcode workspace and project files
+*.xcodeproj/
+*.xcworkspace/
+
+# Logs
+**/debug.log
+**/profile/profile_log
+
+# Generated files
+*.iml
+*.jar
+*.lock
+*.sqlite3
+*.sync
+*.bak
+*.yaml
+*.flutter-plugins
+*.flutter-plugins-dependencies
+*.dart_tool/
+*.pub-cache/
+*.dart_tool/
+*.pub/
+
+# Android build/gradle files
+android/app/build/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+
+# iOS build files
+ios/Podfile.lock
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/flutter_assets/
+
+# macOS build directory
+macos/build/
+
+# Web build directory
+web/build/
+
+# Temporary files
+*.log
+*.log.*
+*.tmp
+
+# Flutter generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+/build/
+/captures/
+/flutter/ios/Flutter/Flutter.xcconfig
+
+# End of Flutter .gitignore
