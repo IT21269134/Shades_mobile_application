@@ -33,9 +33,9 @@ Shades is built using the following technologies:
 ## Contributors
 
 Shades is the result of collaborative efforts from a dedicated team of contributors who share the vision of enhancing the academic experience for university students. We're grateful for their hard work and commitment to this project.
-* IT21289316 - Harish.B </br>
-* IT21269134 - Kumbukgolla K.G.I.H.C </br>
-* IT21272240 - Perera K.P.R.T </br>
+* IT21289316, Harish.B </br>
+* IT21269134: Kumbukgolla K.G.I.H.C </br>
+* IT21272240: Perera K.P.R.T </br>
 * IT21258480: Dissanayake D.M.P.D </br>
 
 
