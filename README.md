@@ -53,7 +53,7 @@ To begin your journey with Shades, follow these simple steps:
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your-username/Shades.git
+   git clone https://github.com/IT21269134/Shades.git
    cd Shades
    ```
 
